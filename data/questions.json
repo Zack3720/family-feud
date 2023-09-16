@@ -1,0 +1,49 @@
+[
+    {
+        "question" : "Name a House You Never Want to Be In",
+        "answers" : [
+            {"answer" : "Haunted House", "points" : 27},
+            {"answer" : "Jail/Big House", "points" : 11},
+            {"answer" : "Doghouse", "points" : 8},
+            {"answer" : "Drug House", "points" : 7},
+            {"answer" : "Small House", "points" : 7},
+            {"answer" : "Glass House", "points" : 6},
+            {"answer" : "Cat House", "points" : 5},
+            {"answer" : "Outhouse", "points" : 5}
+        ]
+    },
+    {
+        "question" : "Name Something In A Person's Closet That Only Comes Out On Special Occasions",
+        "answers" : [
+            {"answer" : "Suit/Tux", "points" : 35},
+            {"answer" : "Dress", "points" : 26},
+            {"answer" : "Jewelry", "points" : 10},
+            {"answer" : "Dress Shoes", "points" : 6},
+            {"answer" : "Shotgun", "points" : 4}
+        ]
+    },
+    {
+        "question" : "Name Something You Might See a Commercial For During a Baseball Game",
+        "answers" : [
+            {"answer" : "Car/Truck", "points" : 28},
+            {"answer" : "Baseball Equipment/Jerseys", "points" : 26},
+            {"answer" : "Baseball Games/Tickets", "points" : 25},
+            {"answer" : "Restaurants", "points" : 9},
+            {"answer" : "Medication", "points" : 6},
+            {"answer" : "Beer", "points" : 4}
+        ]
+    },
+    {
+        "question" : "Name An Occasion For Which You Might Wear Your Lucky Underwear",
+        "answers" : [
+            {"answer" : "Hot Date", "points" : 30},
+            {"answer" : "Job Interview", "points" : 16},
+            {"answer" : "Casino/Gambling", "points" : 11},
+            {"answer" : "Sporting Event", "points" : 9},
+            {"answer" : "Wedding/Night", "points" : 7},
+            {"answer" : "Anniversary", "points" : 5},
+            {"answer" : "Valentine's Day", "points" : 4},
+            {"answer" : "Exam/Finals", "points" : 4}
+        ]
+    }
+]
