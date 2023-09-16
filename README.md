@@ -4,7 +4,7 @@ Thank you for choosing Zack's Family Feud Program for your Family Feud Game Need
 The rest of this document will instruct you on how to use the program. 
 Make sure to atleast read the Important Notes at the bottom! 
 
-To Run Program:  
+## To Run Program:  
 To run program just run the FamilyFeud.py file in the python folder. 
 This will pop up two windows, one named Family Feud and the other name control panel.  
 
